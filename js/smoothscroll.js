@@ -8,8 +8,8 @@ $(".navbar-collapse ul li a[href^='#']").on('click', function(e) {
 
    // animate
    $('html, body').animate({
-       scrollTop: $(hash).offset().top
-     }, 300, function(){
+       scrollTop: $(hash).offset().top -50
+     }, 700, function(){
 
        // when done, add hash to url
        // (default click behaviour)
@@ -28,8 +28,8 @@ $("a.navbar-brand[href^='#']").on('click', function(e) {
 
    // animate
    $('html, body').animate({
-       scrollTop: $(hash).offset().top
-     }, 300, function(){
+       scrollTop: $(hash).offset().top -50
+     }, 700, function(){
 
        // when done, add hash to url
        // (default click behaviour)
