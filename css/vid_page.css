@@ -6,3 +6,7 @@
 	text-align: right;
 	font-family: 'Varela Round', sans-serif;
 }
+
+.collapse a:hover { 
+    background-color: green;
+}
