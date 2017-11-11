@@ -10,3 +10,7 @@
 .collapse a:hover { 
     background-color: green;
 }
+
+.collapse {
+	  margin-left: 1144px;
+}
