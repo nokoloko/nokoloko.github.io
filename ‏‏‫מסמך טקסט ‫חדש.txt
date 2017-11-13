@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+<title>האתר הוסר</title>
+<style>
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+<p style="text-align:right;"><a href="https://www.netboobs.github.io">בס"ד</a></p>
+<h1 style="text-align:right;"><a href="https://www.netboobs.github.io">.האתר הוסר עד להודעה חדשה. עמכם הסליחה ואביכם התודה</a></h1>
+<h2 style="text-align:right;"><a href="https://www.netboobs.github.io">אתר שעומד לעלות בקרוב</a></h2>
+<h3 style="text-align:right;"><a href="https://www.netboobs.github.io">הכניסה מגיל 18 בלבד</a></h3>
+</body>
+</html>
